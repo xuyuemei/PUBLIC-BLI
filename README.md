@@ -1,1 +1,10 @@
 # PUBLIC-BLI
+
+Here is our dictionary.
+
+| ar-he: [text](https://github.com/xuyuemei/PUBLIC-BLI/blob/main/dictionary/ar-he.txt) | ar-ja: [text](https://github.com/xuyuemei/PUBLIC-BLI/blob/main/dictionary/ar-ja.txt) | ar-sw: [text](https://github.com/xuyuemei/PUBLIC-BLI/blob/main/dictionary/ar-sw.txt) | ar-tl: [text](https://github.com/xuyuemei/PUBLIC-BLI/blob/main/dictionary/ar-tl.txt) | en-he: [text](https://github.com/xuyuemei/PUBLIC-BLI/blob/main/dictionary/en-he.txt) | en-ja: [text](https://github.com/xuyuemei/PUBLIC-BLI/blob/main/dictionary/en-ja.txt) |
+|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| en-sw: [text](https://github.com/xuyuemei/PUBLIC-BLI/blob/main/dictionary/en-sw.txt) | en-tl: [text](https://github.com/xuyuemei/PUBLIC-BLI/blob/main/dictionary/en-tl.txt) | id-he: [text](https://github.com/xuyuemei/PUBLIC-BLI/blob/main/dictionary/id-he.txt) | id-ja: [text](https://github.com/xuyuemei/PUBLIC-BLI/blob/main/dictionary/id-ja.txt) | id-sw: [text](https://github.com/xuyuemei/PUBLIC-BLI/blob/main/dictionary/id-sw.txt) | id-tl: [text](https://github.com/xuyuemei/PUBLIC-BLI/blob/main/dictionary/id-tl.txt) |
+| zh-he: [text](https://github.com/xuyuemei/PUBLIC-BLI/blob/main/dictionary/zh-he.txt) | zh-ja: [text](https://github.com/xuyuemei/PUBLIC-BLI/blob/main/dictionary/zh-ja.txt) | zh-sw: [text](https://github.com/xuyuemei/PUBLIC-BLI/blob/main/dictionary/zh-sw.txt) | zh-tl: [text](https://github.com/xuyuemei/PUBLIC-BLI/blob/main/dictionary/zh-tl.txt) | | |
+
+
